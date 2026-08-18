@@ -284,5 +284,4 @@ LavaLust Framework is open-source software licensed under the **[MIT License](ht
 - **Documentation:** [https://lavalust.netlify.app](https://lavalust.netlify.app)
 - **Report an Issue:** [https://github.com/ronmarasigan/lavalust/issues](https://github.com/ronmarasigan/lavalust/issues)
 =======
-# riel-jhon-michael-lavalust
 >>>>>>> 50c3205db7f3bd8f896fdf8a930d60eaafc3f368
